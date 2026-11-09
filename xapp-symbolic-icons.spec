@@ -1,5 +1,5 @@
 Name:		xapp-symbolic-icons
-Version:        1.1.1
+Version:        1.1.2
 Release:	1
 Source0:	https://github.com/xapp-project/xapp-symbolic-icons/archive/%{version}/%{name}-%{version}.tar.gz
 Summary:	A set of symbolic icons which replaces the GNOME-specific Adwaita set
